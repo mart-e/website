@@ -22,9 +22,6 @@ social:
     - https://www.facebook.com/groups/1419016881706058/
     - https://github.com/osmbe
 
-url: https://openstreetmap.be
-baseurl: ""
-
 exclude:
   - INSTALL.md
   - package.json
